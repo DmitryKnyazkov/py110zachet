@@ -4,6 +4,7 @@ import random
 import json
 
 
+
 def model():
     return Conf.model
 
